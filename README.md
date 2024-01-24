@@ -4,3 +4,6 @@ It will fetch 1 data column at a time, and return a time-series as a pd.DataFram
 Small checks are performed.
 
 The only input is the series name, corresponding to the 'Series Key' of the table that one wants to fetch.
+This key is indicated on each data series found in the data bank.
+
+Find data series here (https://data.ecb.europa.eu/)
